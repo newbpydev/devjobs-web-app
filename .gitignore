@@ -40,3 +40,9 @@ yarn-error.log*
 **/*.log
 package-lock.json
 **/*.bun
+
+# Avoid figam and sketch files upload
+*.sketch
+
+*.xd
+*.fig
